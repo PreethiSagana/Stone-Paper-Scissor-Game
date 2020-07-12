@@ -1,0 +1,23 @@
+html{
+    border:5px solid black;
+    margin:30px 30px;
+}
+.draw{
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.p1,.p2{
+    color:blue;
+    font-size: 30px;
+    font-weight: bold;
+}
+.win{
+    color:black;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+
+}
